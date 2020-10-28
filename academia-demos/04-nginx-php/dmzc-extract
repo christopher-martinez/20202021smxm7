@@ -1,1 +1,4 @@
-
+/etc/nginx/nginx.conf
+/etc/nginx/sites-available/
+/etc/nginx/sites-enabled/
+/usr/share/nginx/html/online
